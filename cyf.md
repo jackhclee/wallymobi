@@ -26,12 +26,12 @@ Define then Apply
 - Usually re-definiton is allowed and always overwrite earlier definitons. **Unknown overwite is a common source of problem.**
 
 Hyperlink
-- Absolute vs Relative resources
+Absolute vs Relative resources
 - `<a href="https://apple.com">This is a absolute link to Apple.com</a>`
 
 - `<img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-mac-nav-202110?wid=400&hei=260&fmt=png-alpha&.v=1632870674000"/>`
 
-- Anything not starting with https:// http:// ftp:// mail:// etc are relative
+Anything not starting with https:// http:// ftp:// mail:// or / etc are relative
 
 - `<a href="hidden.html">This is a relative link to hidden.html on this site</a>`
 -  `<img src="../images/hero.jpg"/>`
