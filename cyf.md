@@ -1,8 +1,8 @@
 # Tools
 
 VS Code Extensions
-- HTML Preview
-- Markdown All in One
+- [HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   
 2021-11-13 HTML Larks
 
