@@ -4,6 +4,10 @@ VS Code Extensions
 - [HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
+VS Code Hotkey
+- CTRL/CMD + SHIFT + P => Actions (Format document etc)
+- CTRL/CMD + P => Find in files
+
 # CYF London 8 Classes
 2021-11-13 HTML Larks
 
