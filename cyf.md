@@ -3,7 +3,8 @@
 VS Code Extensions
 - [HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-  
+
+# CYF London 8 Classes
 2021-11-13 HTML Larks
 
 Tricks
