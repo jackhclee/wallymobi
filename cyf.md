@@ -37,8 +37,7 @@ Hyperlink
 -  `<img src="../images/hero.jpg"/>`
 
 Missing Link / Resources?
-- Check if you can get clues from
-Developer Tools => Network. You can access the tool by 1) Right click on the page and select Inspect or 2) Press F12 button
+- Fireup Developer Tools => Network and check. You can access the tool by 1) Right click on the page and select Inspect or 2) Press F12 button
 - ![ChromeDev](https://i.ibb.co/WVKMXMM/Screenshot-2021-11-13-at-16-08-46.png)
 
 
