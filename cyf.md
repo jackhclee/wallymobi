@@ -6,7 +6,7 @@ VS Code Extensions
 
 VS Code Hotkey
 - CTRL/CMD + SHIFT + p => Find and run actions (Format document etc)
-- CTRL/CMD + SHIFT + f => Find in files. You can search contents in all your project folder
+- CTRL/CMD + SHIFT + f => Find in files. You can search contents in all files under your project folder
 
 # CYF London 8 Classes
 2021-11-13 HTML Larks
