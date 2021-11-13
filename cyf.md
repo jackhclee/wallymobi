@@ -39,7 +39,7 @@ Hyperlink
 Missing Link / Resources?
 - Check if you can get clues from
 Inspector => Network 
-
+- ![Chrome Inspector - Network](https://ibb.co/hY84N44)
 
 
 How to activate Inspector
