@@ -39,7 +39,7 @@ Hyperlink
 Missing Link / Resources?
 - Check if you can get clues from
 Developer Tools => Network 
-- ![Chrome Inspector - Network](https://ibb.co/hY84N44)
+- <img src="https://ibb.co/hY84N44"/>
 
 1. Right click on the page and select Inspect
 2. Press F12 button
