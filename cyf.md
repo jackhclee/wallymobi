@@ -38,12 +38,10 @@ Hyperlink
 
 Missing Link / Resources?
 - Check if you can get clues from
-Inspector => Network 
+Developer Tools => Network 
 - ![Chrome Inspector - Network](https://ibb.co/hY84N44)
 
-
-How to activate Inspector
-1. Right click on the page
+1. Right click on the page and select Inspect
 2. Press F12 button
 
 
