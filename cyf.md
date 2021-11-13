@@ -1,11 +1,24 @@
+# Tools
 
+VS Code Extensions
+- HTML Preview
+- Markdown All in One
+  
 2021-11-13 HTML Larks
 
 Tricks
 
+HTML has been developed for ages and check your HTML file so that it is
+
+- **One root and one root only** (i.e. everything shall be enclosed within `<html></html>`)
+- Check HTML Well Form-ness
+Each opening element shall have an closing element (`<p></p>`) or
+element is self closing (`<img />`)
+ 
+
 Define then Apply
-- Write definition (e.g. CSS definitions) before you call in the code.
-- Usually re-definiton is allowed and always overwrite earlier definitons.
+- Write definition (e.g. CSS definitions) before you use in the code.
+- Usually re-definiton is allowed and always overwrite earlier definitons. **Unknown overwite is a common source of problem.**
 
 Hyperlink
 - Absolute vs Relative resources
@@ -18,28 +31,15 @@ Hyperlink
 - `<a href="hidden.html">This is a relative link to hidden.html on this site</a>`
 -  `<img src="../images/hero.jpg"/>`
 
-     images/photo.jpg
-     css/style.css
-
-Check if you can get it
+Missing Link / Resources?
+- Check if you can get clues from
 Inspector => Network 
 
-Check HTML Well Form-ness
-Each if each opening element shall have an closing element (<p> </p>); or
-Element is self closing (<img />)
 
-Why, it just make the computer live easier...
-
-Tag Names are Confusing (head vs header, body vs main)
-Yes, the technology has been developed since 90s and legacy elements 
 
 How to activate Inspector
 1. Right click on the page
 2. Press F12 button
 
 
-Tools
 
-VS Code Extensions
-- HTML Preview
-- Markdown All in One
