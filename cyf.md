@@ -5,8 +5,8 @@ VS Code Extensions
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Allow preview on Markdown file
 
 VS Code Hotkey
-- CTRL/CMD + SHIFT + P => Actions (Format document etc)
-- CTRL/CMD + P => Find in files
+- CTRL/CMD + SHIFT + p => Find and run actions (Format document etc)
+- CTRL/CMD + f => Find in files. You can search contents in all your 
 
 # CYF London 8 Classes
 2021-11-13 HTML Larks
