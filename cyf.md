@@ -1,8 +1,8 @@
 # Tools
 
 VS Code Extensions
-- [HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode) - Allow preview on HTML file
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Allow preview on Markdown file
 
 VS Code Hotkey
 - CTRL/CMD + SHIFT + P => Actions (Format document etc)
