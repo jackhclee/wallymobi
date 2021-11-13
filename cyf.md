@@ -9,7 +9,7 @@ VS Code Hotkey
 - CTRL/CMD + SHIFT + f => Find in files. You can search contents in all files under your project folder
 
 # CYF London 8 Classes
-2021-11-13 HTML Larks
+2021-11-13 HTML-CSS (Larks)
 
 Tricks
 
