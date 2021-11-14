@@ -6,8 +6,9 @@ VS Code Extensions
 
 VS Code Hotkey
 - CTRL/CMD + SHIFT + p => Find and run actions (Format document etc)
+  - Emmet Update Tag. Update both opening and closing tag together.
 - CTRL/CMD + SHIFT + f => Find in files. You can search contents in all files under your project folder
-- CTRL/CMD + SHIFT + p => Emmet Update Tag. Update both opening and closing tag together.
+
 
 # CYF London 8 Classes
 2021-11-13 HTML-CSS (Larks)
