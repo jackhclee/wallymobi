@@ -5,7 +5,7 @@ VS Code Extensions
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Allow preview on Markdown file
 
 VS Code Hotkey
-- CTRL/CMD + SHIFT + p => Find and run actions. Serach actions with **">"** at beginning (e.g. Format document etc)
+- CTRL/CMD + SHIFT + p => Find and run actions. Serach actions by entering **">"** at beginning (e.g. Format document etc)
   - Emmet Update Tag. Update both opening and closing tag together.
   - Format Document. Tidy up document.
 - CTRL/CMD + SHIFT + f => Find in files. You can search contents in all files under your project folder
