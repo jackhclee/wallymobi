@@ -26,7 +26,7 @@ How to view PR request
 - Press enter to execute the filter and show results
 
 Use of Markup in Github
-- The `- [ ]` you see in README.md signifies a checkbox. You can place an `x` within as `- [x]` to show you have completed the task and help your reviwer that you have completed the required task.
+- The `- [ ]` you see in README.md means a checkbox. You can place an `x` within as `- [x]` to show you have completed the task and tell your reviwer that you have completed the required task.
 - [ ] A task to be completed
 - [x] A task completed
 
