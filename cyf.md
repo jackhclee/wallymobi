@@ -14,6 +14,20 @@ VS Code Hotkey
 # CYF London 8 Classes
 2021-11-20 HTML-CSS (Larks)
 
+Tricks
+
+Github Related Actions in Visual Code
+- See attached picture for tips
+- ![cyf-2021-11-20.png](https://rsw.github.com/wallymobi/cyf-2021-11-20.png)
+
+How to view PR request
+- Go to the desired repository's pull request page (e.g. [https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls))
+- Clear the filter field and enter `author:abc` where abc is the Github username of the PR requester.
+- Press enter to execute the filter and show results
+
+Use of Markup
+- The Github special code `- [ ]` you see in README.md signifies a checkbox. You can place an `X` like `- [X]` to show you have completed the task.
+
 2021-11-13 HTML-CSS (Larks)
 
 Tricks
