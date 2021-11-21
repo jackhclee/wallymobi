@@ -18,7 +18,7 @@ Tricks
 
 Github Related Actions in Visual Code
 - See attached picture for tips
-- ![cyf-2021-11-20.png](https://raw.github.com/wallymobi/cyf-2021-11-20.png)
+- ![cyf-2021-11-20.png](./cyf-2021-11-20.png)
 
 How to view PR request
 - Go to the desired repository's pull request page (e.g. [https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls))
@@ -26,8 +26,9 @@ How to view PR request
 - Press enter to execute the filter and show results
 
 Use of Markup
-- The Github special code `- [ ]` you see in README.md signifies a checkbox. You can place an `X` like `- [X]` to show you have completed the task.
-
+- The Github special code `- [ ]` you see in README.md signifies a checkbox. You can place an `x` like `- [x]` to show you have completed the task.
+- [ ] A task to be completed
+- [x] A task completed
 2021-11-13 HTML-CSS (Larks)
 
 Tricks
