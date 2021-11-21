@@ -25,10 +25,11 @@ How to view PR request
 - Clear the filter field and enter `author:abc` where abc is the Github username of the PR requester.
 - Press enter to execute the filter and show results
 
-Use of Markup
-- The Github special code `- [ ]` you see in README.md signifies a checkbox. You can place an `x` like `- [x]` to show you have completed the task.
+Use of Markup in Github
+- The `- [ ]` you see in README.md signifies a checkbox. You can place an `x` within as `- [x]` to show you have completed the task and help your reviwer that you have completed the required task.
 - [ ] A task to be completed
 - [x] A task completed
+
 2021-11-13 HTML-CSS (Larks)
 
 Tricks
