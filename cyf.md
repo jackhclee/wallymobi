@@ -18,7 +18,7 @@ Tricks
 
 Github Related Actions in Visual Code
 - See attached picture for tips
-- ![cyf-2021-11-20.png](https://rsw.github.com/wallymobi/cyf-2021-11-20.png)
+- ![cyf-2021-11-20.png](https://raw.github.com/wallymobi/cyf-2021-11-20.png)
 
 How to view PR request
 - Go to the desired repository's pull request page (e.g. [https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls))
