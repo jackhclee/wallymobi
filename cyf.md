@@ -23,7 +23,7 @@ Github Related Actions in Visual Code
 VS Code Git Panel
 - ![cyf-2021-11-20a.png](./cyf-2021-11-20a.png)
 - Click "Cross Pointing Arrows" icon to compare previous version with working copy
-- Globe icon means the change is pushed to remote
+- Up pointing arrow means pending changes to be pusheded to remote
 
 How to view PR request
 - Go to the desired repository's pull request page (e.g. [https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls))
