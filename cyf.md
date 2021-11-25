@@ -20,6 +20,11 @@ Github Related Actions in Visual Code
 - See attached picture for tips
 - ![cyf-2021-11-20.png](./cyf-2021-11-20.png)
 
+VS Code Git Panel
+- ![cyf-2021-11-20a.png](./cyf-2021-11-20a.png)
+- Click "Cross Pointing Arrows" icon to compare previous version with working copy
+- Globe icon means the change is pushed to remote
+
 How to view PR request
 - Go to the desired repository's pull request page (e.g. [https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2/pulls))
 - Clear the filter field and enter `author:abc` where abc is the Github username of the PR requester.
