@@ -21,13 +21,13 @@ What is Deployment
 - ![cyf-2021-11-27a.png](./cyf-2021-11-27a.png)
 - ![cyf-2021-11-27b.png](./cyf-2021-11-27b.png)
 
-2021-11-7 HTML-CSS (Larks)
+2021-11-20 HTML-CSS (Larks)
 
 Tricks
 
 Github Related Actions in Visual Code
 - See attached picture for tips
-- ![cyf-2021-11-7.png](./cyf-2021-11-7.png)
+- ![cyf-2021-11-20.png](./cyf-2021-11-20.png)
 
 VS Code Git Panel
 - ![cyf-2021-11-20a.png](./cyf-2021-11-20a.png)
