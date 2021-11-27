@@ -17,6 +17,9 @@ VS Code Hotkey
 
 Tricks
 
+What is Deployment
+- ![cyf-2021-11-27a.png](./cyf-2021-11-27a.png)
+
 2021-11-7 HTML-CSS (Larks)
 
 Tricks
