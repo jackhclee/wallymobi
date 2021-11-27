@@ -19,6 +19,7 @@ Tricks
 
 What is Deployment
 - ![cyf-2021-11-27a.png](./cyf-2021-11-27a.png)
+- ![cyf-2021-11-27b.png](./cyf-2021-11-27b.png)
 
 2021-11-7 HTML-CSS (Larks)
 
