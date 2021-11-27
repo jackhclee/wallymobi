@@ -17,7 +17,7 @@ VS Code Hotkey
 
 Tricks
 
-What is Deployment
+Put your HTML page on Internet. Deploy it to a real server.
 - ![cyf-2021-11-27a.png](./cyf-2021-11-27a.png)
 - ![cyf-2021-11-27b.png](./cyf-2021-11-27b.png)
 
