@@ -18,7 +18,9 @@ VS Code Hotkey
 Tricks
 
 Put your HTML page on Internet. Deploy it to a real server.
+- You commit your code changes at Github and notify Netlify for deployment
 - ![cyf-2021-11-27a.png](./cyf-2021-11-27a.png)
+- Make sure you are deploying the rigth *Base Directory* and *Production branch*
 - ![cyf-2021-11-27b.png](./cyf-2021-11-27b.png)
 
 2021-11-20 HTML-CSS (Larks)
