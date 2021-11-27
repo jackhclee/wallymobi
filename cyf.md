@@ -12,13 +12,18 @@ VS Code Hotkey
 
 
 # CYF London 8 Classes
-2021-11-20 HTML-CSS (Larks)
+
+2021-11-27 HTML-CSS (Larks)
+
+Tricks
+
+2021-11-7 HTML-CSS (Larks)
 
 Tricks
 
 Github Related Actions in Visual Code
 - See attached picture for tips
-- ![cyf-2021-11-20.png](./cyf-2021-11-20.png)
+- ![cyf-2021-11-7.png](./cyf-2021-11-7.png)
 
 VS Code Git Panel
 - ![cyf-2021-11-20a.png](./cyf-2021-11-20a.png)
