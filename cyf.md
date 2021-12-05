@@ -17,6 +17,9 @@ VS Code Hotkey
 
 ### Tricks
 
+#### Testing Edge Cases
+We usually test programs with extreme / edge scenarios.
+
 #### How to save a website local archive
 In Chrome, right click on "Save as"
 #### Great books on JavaScript
