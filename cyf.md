@@ -15,11 +15,11 @@ VS Code Hotkey
 
 2021-12-04 HTML-CSS (Larks)
 
-Tricks
+### Tricks
 
-How to save a website local archive
+#### How to save a website local archive
 In Chrome, right click on "Save as"
-Great books on JavaScript
+#### Great books on JavaScript
 - Eloquent Javascript by Marijn Haverbeke [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
 
 2021-11-27 HTML-CSS (Larks)
