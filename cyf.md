@@ -10,6 +10,9 @@ VS Code Hotkey
   - Format Document. Tidy up document.
 - CTRL/CMD + SHIFT + f => Find in files. You can search contents in all files under your project folder
 
+Useful Linux / OSX
+#### ZSH
+
 
 # CYF London 8 Classes
 
