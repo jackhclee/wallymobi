@@ -11,6 +11,9 @@ VS Code Hotkey
   - Format Document. Tidy up document.
 - CTRL/CMD + SHIFT + f => Find in files. You can search contents in all files under your project folder
 
+## Chrome
+Chrome Extensions
+- [DevDocs](https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe?hl=en-GB) - Local offline copy of various development documentations.
 ## Useful Linux / OSX Tricks
 ### ZSH
 You may consider using ZSH
