@@ -16,6 +16,14 @@ Useful Linux / OSX Tricks
 
 # CYF London 8 Classes
 
+2021-12-11 JS1-Week1 (Larks)
+### Tricks
+#### You might not know you are using JavaScript ...
+- VS Code is written in [JavaScript](https://www.quora.com/What-is-Visual-Studio-Code-written-in) 
+
+- Using `toBeOneOf` in Jest `toBeOneOf` is an from `jest-extended` and you need to configure in package.json and run npm install to download necessary NPM modules
+![cyf-2021-12-11a.png](./cyf-2021-12-11a.png)
+
 2021-12-04 HTML-CSS (Larks)
 
 ### Tricks
