@@ -1,5 +1,6 @@
 # Tools
 
+## VS Code
 VS Code Extensions
 - [HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode) - Allow preview on HTML file
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Allow preview on Markdown file
@@ -10,9 +11,9 @@ VS Code Hotkey
   - Format Document. Tidy up document.
 - CTRL/CMD + SHIFT + f => Find in files. You can search contents in all files under your project folder
 
-Useful Linux / OSX Tricks
-#### ZSH
-
+## Useful Linux / OSX Tricks
+### ZSH
+You may consider using ZSH
 
 # CYF London 8 Classes
 
