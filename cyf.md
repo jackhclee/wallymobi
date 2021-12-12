@@ -21,6 +21,7 @@ Useful Linux / OSX Tricks
 #### You might not know you are using JavaScript ...
 - VS Code is written in [JavaScript](https://www.quora.com/What-is-Visual-Studio-Code-written-in) 
 
+#### Testing for JavaScript
 - Using `toBeOneOf` in Jest `toBeOneOf` is an from `jest-extended` and you need to configure in package.json and run npm install to download necessary NPM modules
 ![cyf-2021-12-11a.png](./cyf-2021-12-11a.png)
 
