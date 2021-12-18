@@ -15,15 +15,16 @@ VS Code Run and Debug Code
 - You can run and debug code within VS Code
 - If you have never setup Run and Debug in the project. 
   ![cyf-2021-12-18a.png](./cyf-2021-12-18a.png)
--- Click the "Run and Debug" icon at leftmost menu bar
--- Click "create a launch.json file"
--- In the "Select environment" pull down menu, choose "Node.js"
--- You shall be able to debug within VS Code.
+- Click the "Run and Debug" icon at leftmost menu bar
+- Click "create a launch.json file"
+- In the "Select environment" pull down menu, choose "Node.js"
+- You shall be able to debug within VS Code by pressing F5 or select from menu `Run` > `Start Debugging`.
 
-- If you can't debug. 
+- If you can't debug by above steps.
   ![cyf-2021-12-18b.png](./cyf-2021-12-18b.png)
--- try opening the `launch.json` file under current project's `.vscode` folder
--- check `type` attribute is set up `pwa-node` and `program` is set up the JS file you want to run/debug.
+- try opening the `launch.json` file under current project's `.vscode` folder
+- check `type` attribute is set up `pwa-node` and `program` is set up the JS file you want to run/debug.
+
 
 ## Chrome
 Chrome Extensions
