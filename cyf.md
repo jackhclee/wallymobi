@@ -58,7 +58,7 @@ We usually test programs with extreme / edge scenarios.
 #### How to save a website local archive
 In Chrome, right click on "Save as"
 #### Great books on JavaScript
-- Eloquent Javascript by Marijn Haverbeke [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
+- Eloquent Javascript by Marijn Haverbeke [https://eloquentjavascript.net/](https://eloquentjavascript.net/) ![https://eloquentjavascript.net/img/cover.jpg](https://eloquentjavascript.net/img/cover.jpg)
 
 2021-11-27 HTML-CSS (Larks)
 
