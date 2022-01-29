@@ -36,11 +36,12 @@ Run and Debug Code VS Code (Jest)
 - Click the "Run and Debug" icon at leftmost menu bar
 - Click "create a launch.json file"
 - try opening the `launch.json` file under current project's `.vscode` folder
-- edit corresponding `configurations` element. You may refer to to sample [launch.json](https://github.com/jackhclee/wallymobi/blob/main/launch.json)
-- Run and Debug
-- You shall be able to debug within VS Code 
-- by pressing F5 or select from menu `Run` > `Start Debugging`.
+- edit corresponding `configurations` element. You may refer to to sample [launch.json](https://github.com/jackhclee/wallymobi/blob/main/launch.json). Add a configuratio named `Jest Current File`
+- open the Jest test file you want to debug
+- Make sure the `Jest Current File` configuration is selected in `Run and Debug` file.
+- Start debugging by pressing F5 or select from menu `Run` > `Start Debugging`. or
 - Click "Run and Debug" icon at leftmost menu bar and then click the green run button.
+- Set breakpoints and check the running conditions
 
 ## Chrome
 Chrome Extensions
