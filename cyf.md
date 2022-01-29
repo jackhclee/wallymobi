@@ -37,6 +37,31 @@ You may consider using ZSH
 
 # CYF London 8 Classes
 
+2021-01-29 JS2-Week2 (Larks)
+[Exercises answers]
+
+2021-01-15 JS1-Week4 (Larks)
+
+| Func     | Head | Body | Tail |
+| -------  | ---- | ---- | ---- |
+| push     |      |      | Tail |
+| pop      |      |      | Tail |
+| shift    | Head |      |      |
+| unshift  | Head |      |      |
+| splice   |      |      |      |
+
+| Func     | Chainable | New Array Returned | New Array Size |
+| -------- | --------- | ------------------ | -------------- |
+| map      | Yes       | Yes                | Same as input  |
+| filiter  | Yes       | Yes                | Depends        |
+| sort     | Yes       | No                 | Same as input  |
+| foreach  | No        | No                 | NA             |
+| find     | No        | No                 | NA             |
+
+
+
+2021-01-08 JS1-Week3 (Larks)
+
 2021-12-18 JS1-Week2 (Larks)
 
 2021-12-11 JS1-Week1 (Larks)
