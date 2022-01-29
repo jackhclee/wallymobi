@@ -38,7 +38,7 @@ You may consider using ZSH
 # CYF London 8 Classes
 
 2021-01-29 JS2-Week2 (Larks)
-[Exercises answers]
+[Exercises answers](https://github.com/jackhclee/wallymobi/blob/main/cyf-2022-01-29.js)
 
 2021-01-15 JS1-Week4 (Larks)
 
