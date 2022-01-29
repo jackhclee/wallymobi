@@ -28,7 +28,7 @@ Run and Debug within VS Code
 
 Run and Debug Code VS Code (Jest)
 - Configuration
-- run `npm install` to get all necessary NPM modules
+- Run `npm install` to get all necessary NPM modules
 - If you have never setup Run and Debug in the project. 
   ![cyf-2021-12-18a.png](./cyf-2021-12-18a.png)
 - Click the "Run and Debug" icon at leftmost menu bar
@@ -50,10 +50,10 @@ You may consider using ZSH
 
 # CYF London 8 Classes
 
-2021-01-29 JS2-Week2 (Larks)
+2022-01-29 JS2-Week2 (Larks)
 - [Exercises answers](https://github.com/jackhclee/wallymobi/blob/main/cyf-2022-01-29.js)
 
-2021-01-15 JS1-Week4 (Larks)
+2022-01-15 JS1-Week4 (Larks)
 
 | Func     | Head | Body | Tail |
 | -------  | ---- | ---- | ---- |
@@ -73,7 +73,7 @@ You may consider using ZSH
 
 
 
-2021-01-08 JS1-Week3 (Larks)
+2022-01-08 JS1-Week3 (Larks)
 
 2021-12-18 JS1-Week2 (Larks)
 
