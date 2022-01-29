@@ -28,6 +28,20 @@ Run and Debug within VS Code
 - by pressing F5 or select from menu `Run` > `Start Debugging`.
 - Click "Run and Debug" icon at leftmost menu bar and then click the green run button.
 
+Run and Debug Code VS Code (Jest)
+- Configuration
+- run `npm install` to get all necessary NPM modules
+- If you have never setup Run and Debug in the project. 
+  ![cyf-2021-12-18a.png](./cyf-2021-12-18a.png)
+- Click the "Run and Debug" icon at leftmost menu bar
+- Click "create a launch.json file"
+- try opening the `launch.json` file under current project's `.vscode` folder
+- edit corresponding `configurations` element. You may refer to to sample [launch.json](https://github.com/jackhclee/wallymobi/blob/main/launch.json)
+- Run and Debug
+- You shall be able to debug within VS Code 
+- by pressing F5 or select from menu `Run` > `Start Debugging`.
+- Click "Run and Debug" icon at leftmost menu bar and then click the green run button.
+
 ## Chrome
 Chrome Extensions
 - [DevDocs](https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe?hl=en-GB) - Local offline copy of various development documentations.
