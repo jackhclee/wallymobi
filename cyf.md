@@ -52,6 +52,8 @@ You may consider using ZSH
 # CYF London 8 Classes
 
 2022-02-05 JS2-Week3 (Larks)
+Use HTML Validator to check DOM
+![cyf-2022-02-05a.jpg](./cyf-2022-02-05a.jpg)
 
 2022-01-29 JS2-Week2 (Larks)
 - [Exercises answers](https://github.com/jackhclee/wallymobi/blob/main/cyf-2022-01-29.js)
@@ -77,8 +79,6 @@ You may consider using ZSH
 
 
 2022-01-08 JS1-Week3 (Larks)
-Use HTML Validator to check DOM
-![cyf-2022-02-05a.jpg](./cyf-2022-02-05a.jpg)
 
 2021-12-18 JS1-Week2 (Larks)
 
