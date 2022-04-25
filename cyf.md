@@ -59,9 +59,9 @@ Tools to enable automated testing in a modern CI/CD pipeline without human to br
 2. Component Testing - [React Testing Library](https://testing-library.com/docs/react-testing-library/cheatsheet)
   - We test React Components
 3. End-to-End Testing - [Cypress](https://cypress.io)
-  - Program a browser to test web application. Its technology neutral.
+  - Program a browser to test web application. Its technology neutral
   - Test with different browsers
-  - You can get screnshots and even video record
+  - You can get screnshots and even video record for your tests
 4. Check out this [repo and try it yourself](https://github.com/jackhclee/react-test)
 
 ## 2022-02-05 JS2-Week3 (Larks)
