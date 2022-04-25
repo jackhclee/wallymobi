@@ -51,17 +51,20 @@ You may consider using ZSH
 
 # CYF London 8 Classes
 
-2022-04-23 Node-Week1
-Tools for Conduct React Component Testing and UI Testing
-1. Jest - Unit Testing
+## 2022-04-23 Node-Week1
+Tools to enable automated testing in a modern CI/CD pipeline without human to browser interaction.
+
+1. Unit Testing - Jest
   - We test functions
 2. Component Testing - [React Testing Library](https://testing-library.com/docs/react-testing-library/cheatsheet)
-  - A React Component is function
-  - Automate the testing, no human to browser interaction needed.
+  - We test React Components
 3. End-to-End Testing - [Cypress](https://cypress.io)
+  - Program a browser to test web application
+  - Test with different browsers
+  - You can get screnshots and even video record
 4. Check out this [repo and try it yourself](https://github.com/jackhclee/react-test)
 
-2022-02-05 JS2-Week3 (Larks)
+## 2022-02-05 JS2-Week3 (Larks)
 Use HTML Validator to check DOM
 ![cyf-2022-02-05a.jpg](./cyf-2022-02-05a.jpg)
 
