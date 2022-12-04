@@ -41,6 +41,38 @@ Run and Debug Code VS Code (Jest)
 - Click "Run and Debug" icon at leftmost menu bar and then click the green run button.
 - Set breakpoints and check the running conditions
 
+## JavaScript
+`console.table()`
+- Use `console.table()` to pretty print JS arrays!
+```
+Welcome to Node.js v16.18.0.
+Type ".help" for more information.
+> let cars = ["Toyota", "Honda"]
+undefined
+> console.log(cars)
+[ 'Toyota', 'Honda' ]
+undefined
+> console.table(cars)
+┌─────────┬──────────┐
+│ (index) │  Values  │
+├─────────┼──────────┤
+│    0    │ 'Toyota' │
+│    1    │ 'Honda'  │
+└─────────┴──────────┘
+undefined
+> let groupOfCars = [ ["Toyota","Honda"] , ["BMW", "Benz"]]
+undefined
+> console.table(groupOfCars)
+┌─────────┬──────────┬─────────┐
+│ (index) │    0     │    1    │
+├─────────┼──────────┼─────────┤
+│    0    │ 'Toyota' │ 'Honda' │
+│    1    │  'BMW'   │ 'Benz'  │
+└─────────┴──────────┴─────────┘
+undefined
+>
+```
+
 ## Chrome
 Chrome Extensions
 - [DevDocs](https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe?hl=en-GB) - Local offline copy of various development documentations.
