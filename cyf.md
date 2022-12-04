@@ -43,7 +43,7 @@ Run and Debug Code VS Code (Jest)
 
 ## JavaScript
 `console.table()`
-- Use `console.table()` to pretty print JS arrays!
+- Use `console.table()` to pretty print JS array and object!
 ```
 Welcome to Node.js v16.18.0.
 Type ".help" for more information.
@@ -69,6 +69,26 @@ undefined
 │    0    │ 'Toyota' │ 'Honda' │
 │    1    │  'BMW'   │ 'Benz'  │
 └─────────┴──────────┴─────────┘
+undefined
+> let book = { title: "Book1", price: 99}
+undefined
+> console.table(book)
+┌─────────┬─────────┐
+│ (index) │ Values  │
+├─────────┼─────────┤
+│  title  │ 'Book1' │
+│  price  │   99    │
+└─────────┴─────────┘
+undefined
+> let books = [book, book]
+undefined
+> console.table(books)
+┌─────────┬─────────┬───────┐
+│ (index) │  title  │ price │
+├─────────┼─────────┼───────┤
+│    0    │ 'Book1' │  99   │
+│    1    │ 'Book1' │  99   │
+└─────────┴─────────┴───────┘
 undefined
 >
 ```
