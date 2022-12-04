@@ -43,8 +43,8 @@ Run and Debug Code VS Code (Jest)
 
 ## JavaScript
 `console.table()`
-- Use `console.table()` to pretty print JS array and object!
-```
+- Use `console.table()` to pretty print JS array and object! Notice how the data is tabled.
+```JavaScript
 Welcome to Node.js v16.18.0.
 Type ".help" for more information.
 > let cars = ["Toyota", "Honda"]
