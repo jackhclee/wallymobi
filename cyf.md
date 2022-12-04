@@ -22,7 +22,7 @@ Run and Debug within VS Code
 - If you can't debug by above steps.
   ![cyf-2021-12-18b.png](./cyf-2021-12-18b.png)
 - Open the `launch.json` file under current project's `.vscode` folder
-- Check `type` attribute is `pwa-node` and `program` is points to the JS file you want to run/debug. Keep the `${workspaceFolder}/` part.
+- Check `type` attribute is `pwa-node` and `program` points to the JS file you want to run/debug. Keep the `${workspaceFolder}/` part unchanged.
 - You shall be able to debug within VS Code by pressing F5 or select from menu `Run` > `Start Debugging`.
 - Click "Run and Debug" icon at leftmost menu bar and then click the green run button.
 
