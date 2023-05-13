@@ -232,6 +232,22 @@ Missing Link / Resources?
 - Fireup Developer Tools => Network and check. You can access the tool by 1) Right click on the page and select Inspect or 2) Press F12 button
 - ![ChromeDev](https://i.ibb.co/WVKMXMM/Screenshot-2021-11-13-at-16-08-46.png)
 
+2023-05-13 SQL1 LDN9
+Use environmental variable to set PostgreSQL connection string
+Local PostgeSQL server
+```
+DATABASE_URL=postgres://<username>@127.0.0.1:5432/<db_name>?sslmode=disable node server.js
+```
+Render PostgreSQL server
+```
+DATABASE_URL=postgres://<username>:<password>@dpg-chfn0k67avjbbjqe5ub0-a.oregon-postgres.render.com/<db_name> node server.js
+```
+
+Use `pg_dump`for DB structure and data export. `psql` include for import
+
+
+
+
 
 
 
