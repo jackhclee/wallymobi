@@ -263,7 +263,7 @@ Render PostgreSQL server
 DATABASE_URL=postgres://<username>:<password>@dpg-chfn0k67avjbbjqe5ub0-a.oregon-postgres.render.com/<db_name> node server.js
 ```
 
-Use `pg_dump`for DB structure and data export. `psql` include for import
+Use `pg_dump`for DB structure and data export. `psql include <file_location>` for import the dump file.
 
 
 
