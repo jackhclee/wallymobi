@@ -240,20 +240,20 @@ $ psql
 psql (15.2)
 Type "help" for help.
 
-exodus=# \conninfo
+sample=# \conninfo
 You are connected to database "sample" as user "dba" via socket in "/tmp" at port "5432".
-exodus=# \q
+sample=# \q
 ```
 ```
 $ psql -h localhost                                                                                  
 psql (15.2)
 Type "help" for help.
 
-exodus=# \conninfo
+sample=# \conninfo
 You are connected to database "sample" as user "dba" on host "localhost" (address "::1") at port "5432".
-exodus=#
+sample=#
 ```
-Use environmental variable to set PostgreSQL connection string and change working DB
+Use environmental variable to set PostgreSQL connection string to change working DB
 Local PostgeSQL server
 ```
 DATABASE_URL=postgres://<username>@127.0.0.1:5432/<db_name>?sslmode=disable node server.js
