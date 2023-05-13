@@ -265,7 +265,7 @@ DATABASE_URL=postgres://<username>:<password>@<host>/<db_name> node server.js
 
 Use `pg_dump`for DB structure and/or data export. `psql include <file_location>` for import the dump file.
 ```
-PGPASSWORD=<PASSWORD> pg_dump [--schema-only] [--data-only --inserts] -h <host> -U <username> -d <db_name>
+PGPASSWORD=<password> pg_dump [--schema-only] [--data-only --inserts] -h <host> -U <username> -d <db_name>
 ```
 
 
