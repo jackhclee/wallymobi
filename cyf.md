@@ -233,7 +233,7 @@ Missing Link / Resources?
 - ![ChromeDev](https://i.ibb.co/WVKMXMM/Screenshot-2021-11-13-at-16-08-46.png)
 
 2023-05-13 SQL1 LDN9
-Use `\conninfo` to display PostreSQL connection information. Connect via *TCP/IP* using `-h` option instead of socket to 
+Use `\conninfo` to display PostreSQL connection information. Connect via *TCP/IP* using `-h` option instead of socket to mimic the way NodeJS connects to DB
 ```
 $ psql                                                                                               
 psql (15.2)
