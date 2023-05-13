@@ -235,7 +235,7 @@ Missing Link / Resources?
 2023-05-13 SQL1 LDN9
 Use `\conninfo` to display PostreSQL connection information. Connect via *TCP/IP* using `-h` option instead of socket to 
 ```
-psql                                                                                               
+$ psql                                                                                               
 psql (15.2)
 Type "help" for help.
 
@@ -244,7 +244,7 @@ You are connected to database "sample" as user "dba" via socket in "/tmp" at por
 exodus=# \q
 ```
 ```
-~/Downloads/github/jackhclee psql -h localhost                                                                                  
+$ psql -h localhost                                                                                  
 psql (15.2)
 Type "help" for help.
 
