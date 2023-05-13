@@ -260,10 +260,13 @@ DATABASE_URL=postgres://<username>@127.0.0.1:5432/<db_name>?sslmode=disable node
 ```
 Render PostgreSQL server
 ```
-DATABASE_URL=postgres://<username>:<password>@dpg-chfn0k67avjbbjqe5ub0-a.oregon-postgres.render.com/<db_name> node server.js
+DATABASE_URL=postgres://<username>:<password>@<host>/<db_name> node server.js
 ```
 
-Use `pg_dump`for DB structure and data export. `psql include <file_location>` for import the dump file.
+Use `pg_dump`for DB structure and/or data export. `psql include <file_location>` for import the dump file.
+```
+PGPASSWORD=<PASSWORD> pg_dump [--schema-only] [--data-only --inserts] -h <host> -U <username> -d <db_name>
+```
 
 
 
