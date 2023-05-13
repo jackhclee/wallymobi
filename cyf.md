@@ -233,6 +233,25 @@ Missing Link / Resources?
 - ![ChromeDev](https://i.ibb.co/WVKMXMM/Screenshot-2021-11-13-at-16-08-46.png)
 
 2023-05-13 SQL1 LDN9
+Use `\conninfo` to display PostreSQL connection information. Connect via *TCP/IP* using `-h` option instead of socket to 
+```
+psql                                                                                               
+psql (15.2)
+Type "help" for help.
+
+exodus=# \conninfo
+You are connected to database "sample" as user "dba" via socket in "/tmp" at port "5432".
+exodus=# \q
+```
+```
+~/Downloads/github/jackhclee psql -h localhost                                                                                  
+psql (15.2)
+Type "help" for help.
+
+exodus=# \conninfo
+You are connected to database "sample" as user "dba" on host "localhost" (address "::1") at port "5432".
+exodus=#
+```
 Use environmental variable to set PostgreSQL connection string
 Local PostgeSQL server
 ```
