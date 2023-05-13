@@ -253,7 +253,7 @@ exodus=# \conninfo
 You are connected to database "sample" as user "dba" on host "localhost" (address "::1") at port "5432".
 exodus=#
 ```
-Use environmental variable to set PostgreSQL connection string
+Use environmental variable to set PostgreSQL connection string and change working DB
 Local PostgeSQL server
 ```
 DATABASE_URL=postgres://<username>@127.0.0.1:5432/<db_name>?sslmode=disable node server.js
