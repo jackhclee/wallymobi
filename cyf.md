@@ -268,7 +268,13 @@ Use `pg_dump`for DB structure and/or data export. `psql include <file_location>`
 PGPASSWORD=<password> pg_dump [--schema-only] [--data-only --inserts] -h <host> -U <username> -d <db_name>
 ```
 
+2023-09-16 SQL4 LDN10
+### Use of VS Code PostgreSQL Explorer Extension
 
+1. Install PostgreSQL Extension by Chris Kolkman
+
+2. Setup connection details in 
+- ![cyf-2023-09-16a.png](./cyf-2023-09-16a.png)
 
 
 
