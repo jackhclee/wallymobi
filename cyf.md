@@ -1,17 +1,17 @@
 # Tools
 
 ## VS Code
-VS Code Extensions
+### VS Code Extensions
 - [HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode) - Allow preview on HTML file
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Allow preview on Markdown file
 
-VS Code Hotkey
+### VS Code Hotkey
 - CTRL/CMD + SHIFT + p => Find and run actions. Serach actions by entering **">"** at beginning (e.g. Format document etc)
   - Emmet Update Tag. Update both opening and closing tag together.
   - Format Document. Tidy up document.
 - CTRL/CMD + SHIFT + f => Find in files. You can search contents in all files under your project folder
 
-Run and Debug within VS Code
+### Run and Debug within VS Code
 - Configuration
 - If you have never setup Run and Debug in the project. 
   ![cyf-2021-12-18a.png](./cyf-2021-12-18a.png)
@@ -26,7 +26,7 @@ Run and Debug within VS Code
 - You shall be able to debug within VS Code by pressing F5 or select from menu `Run` > `Start Debugging`.
 - Click "Run and Debug" icon at leftmost menu bar and then click the green run button.
 
-Run and Debug Code VS Code (Jest)
+### Run and Debug Code VS Code (Jest)
 - Configuration
 - Run `npm install` to get all necessary NPM modules
 - If you have never setup Run and Debug in the project. 
@@ -97,6 +97,7 @@ undefined
 Chrome Extensions
 - [DevDocs](https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe?hl=en-GB) - Local offline copy of various development documentations.
 - [HTML Validator](https://www.gueury.com/mozilla/download.html) - DOM Validation
+
 ## Useful Linux / OSX Tricks
 ### ZSH
 You may consider using ZSH
@@ -232,6 +233,7 @@ Missing Link / Resources?
 - Fireup Developer Tools => Network and check. You can access the tool by 1) Right click on the page and select Inspect or 2) Press F12 button
 - ![ChromeDev](https://i.ibb.co/WVKMXMM/Screenshot-2021-11-13-at-16-08-46.png)
 
+# CYF London 9 and 10 Class
 2023-05-13 SQL1 LDN9
 
 Use `\conninfo` to display PostreSQL connection information. Connect via *TCP/IP* using `-h` option instead of socket to mimic the way NodeJS connects to DB
