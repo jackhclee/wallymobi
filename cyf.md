@@ -276,6 +276,15 @@ PGPASSWORD=<password> pg_dump [--schema-only] [--data-only --inserts] -h <host> 
 2. Setup connection details in 
 - ![cyf-2023-09-16a.png](./cyf-2023-09-16a.png)
 
+2023-09-30 Pathway 1
+### Use of jq to better format console JSON output
+- Install `jq` via brew (mac) or `sudo apt-get install jq` (Ubuntu)
+- Usage
+```
+curl http://localhost:8080/ | jq 
+```
+- ![cyf-2023-09-30a.png](./cyf-2023-09-30a.png)
+
 
 
 
